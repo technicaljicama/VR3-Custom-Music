@@ -11,7 +11,10 @@ A quick and dirty script for Virtual Rides 3 to play custom music
 
 # Acknowledgements:
 This is a fan project for Virtual Rides 3.
+
 I (technicaljicama) am not responsible for any damage this could cause (game not working properly, copyright strike for copyrighted music, ...).
+
+You need to purchase the game on steam in order to use this tool! [Virtual Rides 3 - Steam](https://store.steampowered.com/app/515260/)
 
 # Credits
 Huge thanks to uyjulian for [oggvorbis2fsb5.c](https://github.com/uyjulian/oggvorbis2fsb5)!
